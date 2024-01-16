@@ -26,7 +26,7 @@ Mock API (Notificação): Um serviço falso usado para simular o envio de notifi
 No projeto, aplicamos os princípios SOLID e Clean Code para torná-lo mais organizado e legível. Integramos testes unitários para garantir a robustez do código. A documentação foi elaborada usando o Swagger. 
 Tentei incorporar o Apache Camel para a integração, mas enfrentei um problema e, devido às restrições de tempo, não pude concluir. No entanto, deixei a configuração comentada para referência futura.
 
-<b>Link Swagger:</b> http://localhost:8080/swagger-ui/index.html#/
+<b>Link Swagger para quando subir a aplicação local:</b> http://localhost:8080/swagger-ui/index.html#/
 
 Payload para criação de cliente/costumer:
 POST(http://localhost:8080/customer)
